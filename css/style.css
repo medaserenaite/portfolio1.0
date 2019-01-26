@@ -111,7 +111,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-	background-image: url("../img/background.jpg");
+	background-image: url("../img/backgroundSM.jpg");
 }
 .intro .overlay {
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,d5dade+100&0.5+0,0+100 */
