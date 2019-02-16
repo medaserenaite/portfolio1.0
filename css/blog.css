@@ -1,0 +1,46 @@
+body{
+    background-image: url("../img/backgroundSM.jpg");
+}
+#top{
+    background: rgba(0,0,0, 0.8);
+    padding:35px;
+}
+body #top h2{
+    font-family: Consolas;
+    color: rgba(255,255,255, 0.8);
+    margin: auto;
+}
+body #top p{
+    font-family: Consolas;
+    color: green;
+    margin: auto;
+}
+body #content{
+    background-color: rgba(255,255,255, 0.8);
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:80px;
+    padding:50px;
+}
+body #content h3{
+    font-family: Consolas;
+    background-color: black;
+    padding: 10px;
+    color: green;
+}
+body #content #post{
+    font-family: Dekko;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding:20px;
+    margin-top:30px;
+}
+body #content #name{
+    font-family: Consolas;
+    color: green;
+    background-color: black;
+    width: 90px;
+    padding:10px;
+    font-size: 20px;
+}
